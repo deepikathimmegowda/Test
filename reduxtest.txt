@@ -24,7 +24,7 @@ store.subscribe(() => {
 store.dispatch({ type : 'ADD' , val : 10});
 store.dispatch({ type : 'SUBTRACT', val : 5});
 
-
+oh yes 
 
 
 
